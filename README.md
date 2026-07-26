@@ -68,5 +68,4 @@ Developed by **Murtaza Sura**
 If you'd like to discuss the project or learn more about its implementation, feel free to connect with me.
 
 - GitHub: https://github.com/MurtazaSura53
-- LinkedIn: *(Add your LinkedIn URL)*
 - Email: *murtazasura53@gmail.com*
